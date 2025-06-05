@@ -9,7 +9,7 @@ import pygame
 pygame.mixer.init()
 
 SPECIAL_GREETINGS = {
-    "Abhishek": "Welcome Abhishek Sir, How are you?"
+    "Abhishek": "Welcome Abhishek Sir, How are you?"  #Change with your Dataset name
 }
 
 def verify_cascade():
